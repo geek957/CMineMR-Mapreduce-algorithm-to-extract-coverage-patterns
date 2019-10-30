@@ -1,0 +1,407 @@
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.406887054443
+length 1 17
+candidatesize 2 136
+length 2 68
+candidatesize 3 159
+total read, total calculate_or_cs 362 590
+process done 18.2798349857
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.332895040512
+length 1 17
+candidatesize 2 136
+length 2 123
+candidatesize 3 539
+length 3 285
+candidatesize 4 432
+length 4 32
+candidatesize 5 7
+total read, total calculate_or_cs 1551 2228
+process done 75.9887080193
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.335789203644
+length 1 17
+candidatesize 2 136
+length 2 132
+candidatesize 3 629
+length 3 558
+candidatesize 4 1569
+length 4 882
+candidatesize 5 927
+length 5 274
+candidatesize 6 58
+total read, total calculate_or_cs 5161 6638
+process done 249.222209215
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.35014796257
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 639
+candidatesize 4 2065
+length 4 1782
+candidatesize 5 3443
+length 5 2107
+candidatesize 6 1734
+length 6 556
+candidatesize 7 110
+length 7 9
+candidatesize 8 0
+total read, total calculate_or_cs 13391 16336
+process done 695.677203894
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.361501932144
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 676
+candidatesize 4 2341
+length 4 2230
+candidatesize 5 5303
+length 5 4438
+candidatesize 6 6378
+length 6 4554
+candidatesize 7 3145
+length 7 1054
+candidatesize 8 171
+length 8 44
+candidatesize 9 1
+total read, total calculate_or_cs 31280 36310
+process done 1709.48882389
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.3302090168
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 680
+candidatesize 4 2380
+length 4 2345
+candidatesize 5 5991
+length 5 5721
+candidatesize 6 10485
+length 6 8972
+candidatesize 7 10510
+length 7 7712
+candidatesize 8 4513
+length 8 2164
+candidatesize 9 336
+length 9 48
+candidatesize 10 1
+total read, total calculate_or_cs 62802 70064
+process done 3556.93071795
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.355848073959
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 680
+candidatesize 4 2380
+length 4 2379
+candidatesize 5 6184
+length 5 6140
+candidatesize 6 12139
+length 6 11482
+candidatesize 7 16971
+length 7 14587
+candidatesize 8 13787
+length 8 10416
+candidatesize 9 5443
+length 9 3073
+candidatesize 10 466
+length 10 115
+candidatesize 11 0
+total read, total calculate_or_cs 107185 116372
+process done 5958.75105309
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.31393289566
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 680
+candidatesize 4 2380
+length 4 2380
+candidatesize 5 6188
+length 5 6175
+candidatesize 6 12334
+length 6 12277
+candidatesize 7 19116
+length 7 18524
+candidatesize 8 22053
+length 8 19433
+candidatesize 9 16506
+length 9 12590
+candidatesize 10 5815
+length 10 3648
+candidatesize 11 674
+length 11 259
+candidatesize 12 1
+total read, total calculate_or_cs 161975 171766
+process done 12366.8106389
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.325465917587
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 680
+candidatesize 4 2380
+length 4 2380
+candidatesize 5 6188
+length 5 6188
+candidatesize 6 12376
+length 6 12364
+candidatesize 7 19410
+length 7 19266
+candidatesize 8 23857
+length 8 23506
+candidatesize 9 22857
+length 9 20991
+candidatesize 10 15194
+length 10 12061
+candidatesize 11 5740
+length 11 3892
+candidatesize 12 922
+length 12 424
+candidatesize 13 18
+length 13 7
+candidatesize 14 0
+total read, total calculate_or_cs 211641 219516
+process done 12222.286834
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.323504924774
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 680
+candidatesize 4 2380
+length 4 2380
+candidatesize 5 6188
+length 5 6188
+candidatesize 6 12376
+length 6 12376
+candidatesize 7 19448
+length 7 19448
+candidatesize 8 24310
+length 8 24235
+candidatesize 9 24106
+length 9 23717
+candidatesize 10 18510
+length 10 17725
+candidatesize 11 10661
+length 11 9176
+candidatesize 12 3856
+length 12 2756
+candidatesize 13 726
+length 13 377
+candidatesize 14 44
+length 14 14
+candidatesize 15 0
+total read, total calculate_or_cs 242616 246842
+process done 14123.8530099
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.315903186798
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 676
+candidatesize 4 2341
+length 4 2230
+candidatesize 5 5303
+length 5 4438
+candidatesize 6 6378
+length 6 4554
+candidatesize 7 3145
+length 7 1054
+candidatesize 8 171
+length 8 44
+candidatesize 9 1
+total read, total calculate_or_cs 31280 36310
+process done 1586.36156321
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.306357860565
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 676
+candidatesize 4 2341
+length 4 2230
+candidatesize 5 5303
+length 5 4438
+candidatesize 6 6378
+length 6 4554
+candidatesize 7 3145
+length 7 1054
+candidatesize 8 171
+length 8 44
+candidatesize 9 1
+total read, total calculate_or_cs 31280 36310
+process done 1581.58243799
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.311461210251
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 676
+candidatesize 4 2341
+length 4 2230
+candidatesize 5 5303
+length 5 4438
+candidatesize 6 6378
+length 6 4554
+candidatesize 7 3145
+length 7 1054
+candidatesize 8 171
+length 8 44
+candidatesize 9 1
+total read, total calculate_or_cs 31280 36310
+process done 1617.59832406
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.311495065689
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 676
+candidatesize 4 2341
+length 4 2230
+candidatesize 5 5303
+length 5 4438
+candidatesize 6 6378
+length 6 4554
+candidatesize 7 3145
+length 7 1054
+candidatesize 8 171
+length 8 44
+candidatesize 9 1
+total read, total calculate_or_cs 31280 36310
+process done 1589.76284599
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.304366111755
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 676
+candidatesize 4 2341
+length 4 2230
+candidatesize 5 5303
+length 5 4438
+candidatesize 6 6378
+length 6 4554
+candidatesize 7 3145
+length 7 1054
+candidatesize 8 171
+length 8 44
+candidatesize 9 1
+total read, total calculate_or_cs 31280 36310
+process done 1603.578614
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.306797027588
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 676
+candidatesize 4 2341
+length 4 2230
+candidatesize 5 5303
+length 5 4438
+candidatesize 6 6378
+length 6 4554
+candidatesize 7 3145
+length 7 1054
+candidatesize 8 171
+length 8 44
+candidatesize 9 1
+total read, total calculate_or_cs 31280 36310
+process done 1597.40002799
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.315963983536
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 676
+candidatesize 4 2341
+length 4 2230
+candidatesize 5 5303
+length 5 4438
+candidatesize 6 6378
+length 6 4554
+candidatesize 7 3145
+length 7 1054
+candidatesize 8 171
+length 8 44
+candidatesize 9 1
+total read, total calculate_or_cs 31280 36310
+process done 1583.53503394
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.324617862701
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 676
+candidatesize 4 2341
+length 4 2230
+candidatesize 5 5303
+length 5 4438
+candidatesize 6 6378
+length 6 4554
+candidatesize 7 3145
+length 7 1054
+candidatesize 8 171
+length 8 44
+candidatesize 9 1
+total read, total calculate_or_cs 31280 36310
+process done 1592.55236983
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.304172992706
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 676
+candidatesize 4 2341
+length 4 2230
+candidatesize 5 5303
+length 5 4438
+candidatesize 6 6378
+length 6 4554
+candidatesize 7 3145
+length 7 1054
+candidatesize 8 171
+length 8 44
+candidatesize 9 1
+total read, total calculate_or_cs 31280 36310
+process done 1613.22899508
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057), ('692', 4993), ('120', 4973), ('883', 4902), ('937', 4681), ('177', 4629), ('145', 4559), ('438', 4511)]
+data read 0.303625106812
+length 1 17
+candidatesize 2 136
+length 2 136
+candidatesize 3 680
+length 3 676
+candidatesize 4 2341
+length 4 2230
+candidatesize 5 5303
+length 5 4438
+candidatesize 6 6378
+length 6 4554
+candidatesize 7 3145
+length 7 1054
+candidatesize 8 171
+length 8 44
+candidatesize 9 1
+total read, total calculate_or_cs 31280 36310
+process done 1617.88289118
+synthetic

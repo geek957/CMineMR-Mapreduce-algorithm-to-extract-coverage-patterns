@@ -1,0 +1,153 @@
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057)]
+data read 0.370294809341
+length 1 10
+candidatesize 2 45
+length 2 14
+candidatesize 3 8
+total read, total calculate_or_cs 66 106
+process done 3.14416098595
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057)]
+data read 0.302266120911
+length 1 10
+candidatesize 2 45
+length 2 42
+candidatesize 3 100
+length 3 43
+candidatesize 4 26
+total read, total calculate_or_cs 254 342
+process done 10.5482690334
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057)]
+data read 0.310334920883
+length 1 10
+candidatesize 2 45
+length 2 43
+candidatesize 3 105
+length 3 99
+candidatesize 4 136
+length 4 68
+candidatesize 5 24
+total read, total calculate_or_cs 517 620
+process done 20.2060859203
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057)]
+data read 0.311691999435
+length 1 10
+candidatesize 2 45
+length 2 45
+candidatesize 3 120
+length 3 114
+candidatesize 4 180
+length 4 163
+candidatesize 5 131
+length 5 77
+candidatesize 6 16
+total read, total calculate_or_cs 887 984
+process done 34.3621151447
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057)]
+data read 0.308081865311
+length 1 10
+candidatesize 2 45
+length 2 45
+candidatesize 3 120
+length 3 119
+candidatesize 4 203
+length 4 202
+candidatesize 5 227
+length 5 187
+candidatesize 6 87
+length 6 70
+candidatesize 7 13
+total read, total calculate_or_cs 1313 1390
+process done 50.9499418736
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057)]
+data read 0.308496952057
+length 1 10
+candidatesize 2 45
+length 2 45
+candidatesize 3 120
+length 3 120
+candidatesize 4 210
+length 4 210
+candidatesize 5 252
+length 5 252
+candidatesize 6 210
+length 6 196
+candidatesize 7 86
+length 7 73
+candidatesize 8 7
+length 8 1
+candidatesize 9 0
+total read, total calculate_or_cs 1820 1860
+process done 72.9634678364
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057)]
+data read 0.311779975891
+length 1 10
+candidatesize 2 45
+length 2 43
+candidatesize 3 105
+length 3 99
+candidatesize 4 136
+length 4 68
+candidatesize 5 24
+total read, total calculate_or_cs 517 620
+process done 20.4920070171
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057)]
+data read 0.314187049866
+length 1 10
+candidatesize 2 45
+length 2 43
+candidatesize 3 105
+length 3 99
+candidatesize 4 136
+length 4 68
+candidatesize 5 24
+total read, total calculate_or_cs 517 620
+process done 20.280066967
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057)]
+data read 0.312682151794
+length 1 10
+candidatesize 2 45
+length 2 43
+candidatesize 3 105
+length 3 99
+candidatesize 4 136
+length 4 68
+candidatesize 5 24
+total read, total calculate_or_cs 517 620
+process done 20.2772080898
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057)]
+data read 0.315778970718
+length 1 10
+candidatesize 2 45
+length 2 43
+candidatesize 3 105
+length 3 99
+candidatesize 4 136
+length 4 68
+candidatesize 5 24
+total read, total calculate_or_cs 517 620
+process done 20.2089221478
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057)]
+data read 0.312559127808
+length 1 10
+candidatesize 2 45
+length 2 43
+candidatesize 3 105
+length 3 99
+candidatesize 4 136
+length 4 68
+candidatesize 5 24
+total read, total calculate_or_cs 517 620
+process done 20.2828969955
+[('368', 7828), ('529', 7057), ('829', 6810), ('766', 6265), ('722', 5845), ('354', 5835), ('684', 5408), ('217', 5375), ('494', 5102), ('419', 5057)]
+data read 0.313369035721
+length 1 10
+candidatesize 2 45
+length 2 43
+candidatesize 3 105
+length 3 99
+candidatesize 4 136
+length 4 68
+candidatesize 5 24
+total read, total calculate_or_cs 517 620
+process done 20.1664021015
+synthetic

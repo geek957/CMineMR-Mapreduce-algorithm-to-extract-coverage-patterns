@@ -1,0 +1,9 @@
+==========================================
+SLURM_JOB_ID = 199404
+SLURM_NODELIST = node[51,53]
+==========================================
+19/04/04 18:33:32 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+[Stage 0:>                                                         (0 + 8) / 10]slurmstepd: error: *** JOB 199404 ON node51 CANCELLED AT 2019-04-04T18:33:36 ***

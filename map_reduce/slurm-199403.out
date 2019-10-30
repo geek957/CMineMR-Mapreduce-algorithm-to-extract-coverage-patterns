@@ -1,0 +1,8 @@
+19/04/04 18:32:32 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+[Stage 0:>                                                         (0 + 8) / 10][Stage 0:==============================================>           (8 + 2) / 10]                                                                                [Stage 1:>                                                         (0 + 8) / 10][Stage 1:==============================================>           (8 + 2) / 10]                                                                                [Stage 7:>                                                         (0 + 8) / 10][Stage 7:=====>                                                    (1 + 8) / 10][Stage 7:=================>                                        (3 + 7) / 10][Stage 7:=======================>                                  (4 + 6) / 10][Stage 7:==================================>                       (6 + 4) / 10][Stage 7:========================================>                 (7 + 3) / 10][Stage 7:==============================================>           (8 + 2) / 10][Stage 7:====================================================>     (9 + 1) / 10]                                                                                153
+size 2 2.06780385971
+11.1933040619
+slurmstepd: error: *** JOB 199403 ON node51 CANCELLED AT 2019-04-04T18:32:47 ***
